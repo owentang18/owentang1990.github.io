@@ -269,7 +269,7 @@ notification:
       webhook_url: ""                 # 飞书机器人 webhook URL
 
     dingtalk:
-      webhook_url:  "${{ secrets.XIAOWEI }}"     # 钉钉机器人 webhook URL
+      webhook_url:  "https://oapi.dingtalk.com/robot/send?access_token=f5569e89a6be05aeb112ce51b16873426d96ea50ced3b2b294ce043a27c64abf"     # 钉钉机器人 webhook URL
 
     wework:
       webhook_url: ""                 # 企业微信机器人 webhook URL
