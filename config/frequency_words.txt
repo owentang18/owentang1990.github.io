@@ -16,12 +16,19 @@
 [WORD_GROUPS]
 
 [AI模型]
-笑话
-上海野生动物园
-曼联
-足球
-美女
-虎扑
+OpenAI
+ChatGPT
+GPT-4
+GPT-5
+Sora
+Claude
+Gemini
+DeepSeek
+通义
+文心
+豆包
+Kimi
+智谱
 
 [热点概念]
 上海野生动物园
